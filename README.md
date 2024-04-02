@@ -70,41 +70,32 @@ The busiest routes observed are SVO-LED, LED-SVO, LED-DME, DME-LED, and DME-BZK.
 
 ## Analyzing Occupancy Rate
 - By increasing the occupancy rate, we aim to boost the average profit earned per seat and mitigate the impact of the challenges we are facing.
-- Strategies will be developed to optimize flight schedules, seating arrangements, and ticket pricing to maximize occupancy.
-- 
+  Strategies will be developed to optimize flight schedules, seating arrangements, and ticket pricing to maximize occupancy.
+ 
   ![Capture3](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/e8f6b8bd-3dbd-44ca-b63f-beaccb84d978)
 
   ![Capture3](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/63d0fbec-eb20-4c23-9664-6b2dc71ef573)
 
   Calculations were performed to determine the potential increase in seat Occupancy by 10 %  to increase productivity and total annual turnover.
   
-
-
-- Revenue streams were analyzed to maximize profitability, considering metrics such as overall income per year and average revenue per ticket.
-- This analysis aids in pricing optimization and resource allocation for profitable routes.
-
-## Potential Increase in Total Annual Turnover
-- Calculations were performed to determine the potential increase in total annual turnover by giving all aircraft a 10% higher occupancy rate.
-
-
-### 2. Improve Pricing Strategy
-- Develop a comprehensive pricing strategy that considers market changes and customer preferences.
-- Pricing models will be analyzed to ensure competitiveness while maintaining profitability.
+## 3. Improve Pricing Strategy
+    - Revenue streams were analyzed to maximize profitability, considering metrics such as overall income per year and average revenue per ticket.
+     This analysis aids in pricing optimization and resource allocation for profitable routes.
 
   ![Capture1](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/4ac41b32-780a-41dd-9aa0-863f09af22af)
 
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/261ca88f-cf10-4c12-844e-6d4fa0c1102d)
 
-## Potential Increase in Total Annual Turnover
-- Calculations were performed to determine the potential increase in total annual turnover by giving all aircraft a 10% higher occupancy rate.
+### Potential Increase in Total Annual Turnover
+   Calculations were performed to determine the potential increase in total annual turnover by giving all aircraft a 10% higher occupancy rate.
 
   ![Capture4](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/d77c3536-4a86-42d6-ad22-e5ff72160cc9)
 
-- By increasing the occupancy rate, we aim to boost the average profit earned per seat and mitigate the impact of the challenges we are facing.
+  By increasing the occupancy rate, we aim to boost the average profit earned per seat and mitigate the impact of the challenges we are facing.
   Strategies will be developed to optimize flight schedules, seating arrangements, and ticket pricing to maximize occupancy.
 
 
-### 3. Enhance Customer Experience
+## 4. Enhance Customer Experience
 - Focus on providing a seamless customer experience from booking to boarding.
   ![Capture7](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/b15305fb-0a80-4b0a-9807-5b6777898e38)
 
