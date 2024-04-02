@@ -19,6 +19,10 @@ Governments worldwide are imposing heavier taxes on aircraft as a means to addre
 ### Tight Labor Market Resulting in Increased Labor Costs
 The aviation sector is experiencing a scarcity of skilled workers, leading to higher labor costs and an increase in turnover rates.
 
+### NOn-uniform demand of flights for different day of week with Variable Profitable flight routes and Aircraft service and Fitness cost 
+Identify high-demand aircraft types, flight routes, and peak days of the week to optimize profitability
+
+
 # Approach
 
 ## Data Preparation
