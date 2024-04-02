@@ -92,6 +92,9 @@ The busiest routes observed are SVO-LED, LED-SVO, LED-DME, DME-LED, and DME-BZK.
 
   ![Capture4](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/d77c3536-4a86-42d6-ad22-e5ff72160cc9)
 
+  ![Capture5](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/a3b87dee-2c05-4dc0-90b9-c4b5aa84f349)
+
+
   By increasing the occupancy rate, we aim to boost the average profit earned per seat and mitigate the impact of the challenges we are facing.
   Strategies will be developed to optimize flight schedules, seating arrangements, and ticket pricing to maximize occupancy.
 
