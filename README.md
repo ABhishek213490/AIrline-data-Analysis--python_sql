@@ -54,9 +54,8 @@ Identify high-demand aircraft types, flight routes, and peak days of the week to
 
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/e4566041-c910-4492-ac93-ca9aa1933de2)
 
-$$ Exploring High demand AIrcraft and routes 
 
-##1. Identify High Demand Route, Aircraft and Flight Rush on different day of week 
+## 1.Exploring High Demand Route, Aircraft and Flight Rush on different day of week 
 
 - Understanding the correlation between busy flight routes and aircraft service durability. Analyzing how revenue generation is influenced by busy routes and the impact of increased flight frequency on factors such as maintenance, fuel consumption, and overall service quality."
 
@@ -69,7 +68,7 @@ $$ Exploring High demand AIrcraft and routes
 The busiest routes observed are SVO-LED, LED-SVO, LED-DME, DME-LED, and DME-BZK. Thursdays and Sundays emerge as the most bustling days. Notably, aircraft types SU9, CN1, and CR2 dominate the skies, signifying their reliability and excellent service delivery.
   
 
-## Analyzing Occupancy Rate
+## 2.Analyzing Occupancy Rate
 - By increasing the occupancy rate, we aim to boost the average profit earned per seat and mitigate the impact of the challenges we are facing.
   Strategies will be developed to optimize flight schedules, seating arrangements, and ticket pricing to maximize occupancy.
  
