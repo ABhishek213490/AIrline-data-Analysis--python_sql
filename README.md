@@ -54,6 +54,7 @@ Identify high-demand aircraft types, flight routes, and peak days of the week to
 
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/e4566041-c910-4492-ac93-ca9aa1933de2)
 
+# Findings
 
 ## 1.Exploring High Demand Route, Aircraft and Flight Rush on different day of week 
 
