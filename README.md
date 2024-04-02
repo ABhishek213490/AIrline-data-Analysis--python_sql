@@ -32,10 +32,12 @@ The aviation sector is experiencing a scarcity of skilled workers, leading to hi
 
 ## Exploratory Data Analysis (EDA)
 - Important columns from all tables were explored to understand the dataset's characteristics.
-- Basic analysis was performed to gain insights such as the number of planes with more than 100 seats, changes in the number of tickets booked and total amount earned over time, and average fare for each aircraft with different fare conditions.
+- Basic analysis was performed to gain insights such as the number of planes with more than 100 seats, changes in the number of tickets booked and total amount earned over time, and average fare for each aircraft with 
+   different fare conditions.
 - Findings from the EDA will inform strategies to increase occupancy rates and optimize pricing for each aircraft.
   ### How many planes have more than 100 seats?
   ![Capture6](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/6b5d21dd-9257-4726-b3fa-2613c61bf76a)
+  
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/c30dd713-b32a-4436-b977-ef2f9a627f2f)
 
   ### How the number of tickets booked and total amount earned changed over time?
