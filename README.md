@@ -44,7 +44,7 @@ Identify high-demand aircraft types, flight routes, and peak days of the week to
   
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/c30dd713-b32a-4436-b977-ef2f9a627f2f)
 
-  ### How the number of tickets booked and total amount earned changed over time?
+  ###. How the number of tickets booked and total amount earned changed over time?
   
   ![Capture](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/077585fe-43ef-4634-baa9-379cbec1fde8)
 
@@ -56,14 +56,15 @@ Identify high-demand aircraft types, flight routes, and peak days of the week to
 
 $$ Exploring High demand AIrcraft and routes 
 
-### Identify High Demand Route, Aircraft and Flight Rush on different day of week 
+##1. Identify High Demand Route, Aircraft and Flight Rush on different day of week 
+
 - Understanding the correlation between busy flight routes and aircraft service durability. Analyzing how revenue generation is influenced by busy routes and the impact of increased flight frequency on factors such as maintenance, fuel consumption, and overall service quality."
 
 ![Capture8](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/42bced57-d157-4793-818e-b4bd13c40c2b)
 
 ![Capture9](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/1b6ae892-2ab1-4913-8527-5d498bb43212)
 
-![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/7e3c0338-79ea-49a7-98b2-0a486b8a51e3)
+![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/91aa1f7b-78d9-4857-931c-a0a3627199c2)
 
 The busiest routes observed are SVO-LED, LED-SVO, LED-DME, DME-LED, and DME-BZK. Thursdays and Sundays emerge as the most bustling days. Notably, aircraft types SU9, CN1, and CR2 dominate the skies, signifying their reliability and excellent service delivery.
   
