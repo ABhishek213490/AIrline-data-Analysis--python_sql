@@ -39,9 +39,12 @@ The aviation sector is experiencing a scarcity of skilled workers, leading to hi
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/c30dd713-b32a-4436-b977-ef2f9a627f2f)
 
   ### How the number of tickets booked and total amount earned changed over time?
+  
   ![Capture](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/077585fe-43ef-4634-baa9-379cbec1fde8)
 
+
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/dd4f9c85-fc85-4e09-a52c-f5643da98ebc)
+
 
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/e4566041-c910-4492-ac93-ca9aa1933de2)
 
@@ -55,7 +58,7 @@ The aviation sector is experiencing a scarcity of skilled workers, leading to hi
 
   ![Capture3](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/63d0fbec-eb20-4c23-9664-6b2dc71ef573)
 
-  - Calculations were performed to determine the potential increase in seat Occupancy by 10 %  to increase productivity and total annual turnover.
+  Calculations were performed to determine the potential increase in seat Occupancy by 10 %  to increase productivity and total annual turnover.
   
 
 
