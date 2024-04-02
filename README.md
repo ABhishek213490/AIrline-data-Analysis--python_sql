@@ -104,10 +104,6 @@ The busiest routes observed are SVO-LED, LED-SVO, LED-DME, DME-LED, and DME-BZK.
 
 Based on the provided data, it is apparent that the aircraft type 319 has the highest average pricing in the Business category. However, the SU9 aircraft has the highest number of tickets booked. Despite the fact that the average pricing for Economy class in SU9 is relatively low, the number of booked tickets is the highest. This suggests that the SU9 aircraft is providing superior services to customers, leading to maximum revenue generation. Other aircraft types should prioritize enhancing customer experience and adjusting pricing strategies to increase revenue.
 
-### Main Goal
-- The main goal of this study is to identify opportunities to increase the occupancy rate in order to boost the average profit earned per seat.
 
 ## Conclusion
-To summarize, analyzing revenue data such as total revenue per year, average revenue per ticket, and average occupancy rate per aircraft is critical for airlines to maximize profitability. Airlines can find areas for improvement and modify their pricing to reflect the result of these indicators. A greater occupancy rate is one important feature that can enhance profitability by generating more revenue while minimizing operational costs associated with vacant seats.
-
-The airline should revise the price for each aircraft as keeping the price too low or too high drives customer ticket purchasing behavior. They should decide on a reasonable price as per the facilities offered and the condition of the aircraft.
+In conclusion, our study emphasizes the importance of increasing flight occupancy rates to enhance profitability. By analyzing revenue data, including total revenue per year, average revenue per ticket, and average occupancy rate per aircraft, airlines can identify opportunities for improvement. Adjusting pricing strategies based on demand and aircraft conditions is crucial to attract customers and maximize revenue. Increasing flight occupancy through strategic pricing adjustments can significantly boost profitability while minimizing operational costs associated with vacant seats. Therefore, optimizing pricing and focusing on high-demand routes and aircraft are essential strategies for airlines aiming to increase profitability and improve overall performance.
