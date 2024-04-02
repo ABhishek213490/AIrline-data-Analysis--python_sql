@@ -19,7 +19,7 @@ Governments worldwide are imposing heavier taxes on aircraft as a means to addre
 ### Tight Labor Market Resulting in Increased Labor Costs
 The aviation sector is experiencing a scarcity of skilled workers, leading to higher labor costs and an increase in turnover rates.
 
-### NOn-uniform demand of flights for different day of week with Variable Profitable flight routes and Aircraft service and Fitness cost 
+### Non-uniform demand of flights for different day of week with Variable Profitable flight routes and Aircraft service and Fitness cost 
 Identify high-demand aircraft types, flight routes, and peak days of the week to optimize profitability
 
 
@@ -54,7 +54,19 @@ Identify high-demand aircraft types, flight routes, and peak days of the week to
 
   ![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/e4566041-c910-4492-ac93-ca9aa1933de2)
 
+$$ Exploring High demand AIrcraft and routes 
 
+### Identify High Demand Route, Aircraft and Flight Rush on different day of week 
+- Understanding the correlation between busy flight routes and aircraft service durability. Analyzing how revenue generation is influenced by busy routes and the impact of increased flight frequency on factors such as maintenance, fuel consumption, and overall service quality."
+
+![Capture8](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/42bced57-d157-4793-818e-b4bd13c40c2b)
+
+![Capture9](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/1b6ae892-2ab1-4913-8527-5d498bb43212)
+
+![image](https://github.com/ABhishek213490/AIrline-data-Analysis--python_sql/assets/161066148/7e3c0338-79ea-49a7-98b2-0a486b8a51e3)
+
+The busiest routes observed are SVO-LED, LED-SVO, LED-DME, DME-LED, and DME-BZK. Thursdays and Sundays emerge as the most bustling days. Notably, aircraft types SU9, CN1, and CR2 dominate the skies, signifying their reliability and excellent service delivery.
+  
 
 ## Analyzing Occupancy Rate
 - By increasing the occupancy rate, we aim to boost the average profit earned per seat and mitigate the impact of the challenges we are facing.
